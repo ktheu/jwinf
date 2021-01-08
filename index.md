@@ -6,7 +6,6 @@ nicht erforderlich.
 
 Die 4-Sterne Aufgaben sind manchmal knifflig, da kann man viel Zeit verlieren. Ich rate daher, erst
 einen Durchgang mit Schwierigkeit 2- oder 3-Sternen zu machen.
-git
 
 [Trainingsaufgaben](https://jwinf.de/contest/?filter=open)
 
