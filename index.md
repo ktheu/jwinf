@@ -1,5 +1,9 @@
 ## Jugendwettbewerb Informatik
 
+[Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
+
+### Trainingsaufgaben 
+
 Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben bis einschließlich 
 `Variablen und Logik` durchzuarbeiten. `Funktionen und Listen` sind da vermutlich noch
 nicht erforderlich.
@@ -7,8 +11,12 @@ nicht erforderlich.
 Die 4-Sterne Aufgaben sind manchmal knifflig, da kann man viel Zeit verlieren. Ich rate daher, erst
 einen Durchgang mit Schwierigkeit 2- oder 3-Sternen zu machen.
 
-[Trainingsaufgaben](https://jwinf.de/contest/?filter=open)
+### Herausforderungen 
 
+Die Herausforderungen sind wie Probewettbewerbe. Für die Bearbeitung benötigt man einen Login-Code und hat
+nur begrenzte Zeit zur Verfügung.
+
+ 
 
 ### Lösungen für einige Trainingsaufgaben
 
