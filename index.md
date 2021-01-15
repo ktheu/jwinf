@@ -22,35 +22,35 @@ nur begrenzte Zeit zur Verfügung.
 
 ##### Einführungsaufgaben
 
-* [Muster malen ***](https://youtu.be/9OQZNqgCZr0)
-* [Muster malen ****](https://youtu.be/3GsRVJHncBI)
-* [Labyrinth ****](https://youtu.be/JmVyJHTA0rg)
-* [Mehr Wiederholungen ***](https://youtu.be/qw2duMDOht8)
-* [Murmeln finden ****](https://youtu.be/KY5n8UvQbL8)
+* [Muster malen 3*](https://youtu.be/9OQZNqgCZr0)
+* [Muster malen 4*](https://youtu.be/3GsRVJHncBI)
+* [Labyrinth 4*](https://youtu.be/JmVyJHTA0rg)
+* [Mehr Wiederholungen 3*](https://youtu.be/qw2duMDOht8)
+* [Murmeln finden 4*](https://youtu.be/KY5n8UvQbL8)
 
 
 ##### Bedingte Anweisungen
 
-* [Finde den Weg zum See **** - Teil 1](https://youtu.be/NqzblbEeFWI) - [Teil 2](https://youtu.be/BJRWdUek4Yo)
-* [Finde das Ziel **** Teil 1](https://youtu.be/VJNxpL2FGw8) - [Teil 2](https://youtu.be/0UJKFQ5xN4U)
+* [Finde den Weg zum See 4* - Teil 1](https://youtu.be/NqzblbEeFWI) - [Teil 2](https://youtu.be/BJRWdUek4Yo)
+* [Finde das Ziel 4* Teil 1](https://youtu.be/VJNxpL2FGw8) - [Teil 2](https://youtu.be/0UJKFQ5xN4U)
 
 
 ##### Wiederholungen
 
-* [Alle Murmeln ****](https://youtu.be/8pexoQt4adg)
+* [Alle Murmeln 4*](https://youtu.be/8pexoQt4adg)
 
 ##### Schildkröte Wiederholungen
 
-* [Schneeflocke **](https://youtu.be/V5vlW5HpTMM)
-* [Schneeflocke ***](https://youtu.be/kOW3v_OcYhE)
+* [Schneeflocke 2*](https://youtu.be/V5vlW5HpTMM)
+* [Schneeflocke 3*](https://youtu.be/kOW3v_OcYhE)
 
 ### Lösungen für einige Challenge-Aufgaben
 
-* [Runde 1 2019, 7-13, Kisten verschieben ****](https://youtu.be/Br1NTMCsFE8)
-* [Runde 1 2020, 9-13, Diagonal verschieben ****](https://youtu.be/CpAANG502aM)
-* [Runde 1 2020, 9-13, Tannenbaum ****](https://youtu.be/jYy0vt45edw)
-* [Runde 1 2020, 9-13, Bildcode ****](https://youtu.be/CVrLfLfxIC8)
-* [Runde 2 2020, Höhle füllen ****](https://youtu.be/Eex_FRz3_IY)
+* [Runde 1 2019, 7-13, Kisten verschieben 4*](https://youtu.be/Br1NTMCsFE8)
+* [Runde 1 2020, 9-13, Diagonal verschieben 4*](https://youtu.be/CpAANG502aM)
+* [Runde 1 2020, 9-13, Tannenbaum 4*](https://youtu.be/jYy0vt45edw)
+* [Runde 1 2020, 9-13, Bildcode 4*](https://youtu.be/CVrLfLfxIC8)
+* [Runde 2 2020, Höhle füllen 4*](https://youtu.be/Eex_FRz3_IY)
 
 
 
