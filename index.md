@@ -51,6 +51,9 @@ nur begrenzte Zeit zur Verfügung.
 * [Runde 1 2020, 9-13, Tannenbaum 4*](https://youtu.be/jYy0vt45edw)
 * [Runde 1 2020, 9-13, Bildcode 4*](https://youtu.be/CVrLfLfxIC8)
 * [Runde 2 2020, Höhle füllen 4*](https://youtu.be/Eex_FRz3_IY)
+* [Runde 2 2020, Lücken füllen 4*](https://youtu.be/vhvSNwMDJs8)
+* [Runde 2 2020, Weg wiederholen 4*](https://youtu.be/0vzuzkAeGyI)
+
 
 
 
