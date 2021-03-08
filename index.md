@@ -44,6 +44,18 @@ nur begrenzte Zeit zur Verfügung.
 * [Schneeflocke 2*](https://youtu.be/V5vlW5HpTMM)
 * [Schneeflocke 3*](https://youtu.be/kOW3v_OcYhE)
 
+##### Funktionen
+
+* [Wie verwende ich Funktionen 3*](https://youtu.be/3ZBAFbKyTEU) 
+* [Wie verwende ich Funktionen 4*](https://youtu.be/oxtRyCQvnU8)
+* [Kreuz 4*](https://youtu.be/Kau-RgVibW0)
+
+##### Listen
+
+* [Wie verwende ich Listen 2*](https://youtu.be/whKnaFHB2MQ) 
+* [Wie verwende ich Listen 4*](https://youtu.be/23mocZKsm-E) 
+
+
 ### Lösungen für einige Challenge-Aufgaben
 
 * [Runde 1 2019, 7-13, Kisten verschieben 4*](https://youtu.be/Br1NTMCsFE8)
@@ -53,6 +65,7 @@ nur begrenzte Zeit zur Verfügung.
 * [Runde 2 2020, Höhle füllen 4*](https://youtu.be/Eex_FRz3_IY)
 * [Runde 2 2020, Lücken füllen 4*](https://youtu.be/vhvSNwMDJs8)
 * [Runde 2 2020, Weg wiederholen 4*](https://youtu.be/0vzuzkAeGyI)
+* [Runde 2 2020, Twist 4*](https://youtu.be/tWTi9uUg_Yo)
 
 
 
