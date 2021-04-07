@@ -4,7 +4,7 @@
 35\. Jugendwettbewerb Informatik - J1
 
 [Aufgabenstellung](./luftballon.pdf) - 
-[Beispieldaten](./beispieldaten/) -
+[Beispieldaten](./beispieldaten.md) -
 [Lösungshinweise](./luftballon_loesungshinweise.pdf)
 
 #### Pseudocode
