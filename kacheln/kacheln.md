@@ -4,7 +4,7 @@
 38\. Jugendwettbewerb Informatik - J2
 
 [Aufgabenstellung](./aufgabenstellung.png) - 
-[Beispieldaten](./beispieldaten) -
+[Beispieldaten](./beispieldaten.md) -
 [Lösungshinweise](./kacheln_loesung.pdf) -
 [Kartengenerator](./kartengenerator/index.html)
 

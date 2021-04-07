@@ -5,7 +5,7 @@
 
 [Aufgabenstellung](./aufgabenstellung.png) - 
 [Lösungshinweise](./parallelen_loesung.pdf) -
-[Beispieldaten](./beispieldaten)
+[Beispieldaten](./beispieldaten.md)
 
 
 #### Python

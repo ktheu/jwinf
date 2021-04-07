@@ -2,7 +2,7 @@
 
 39\. Bundeswettbewerb Informatik - Junioraufgabe 2
 
-[Aufgabenstellung](baulwuerfe.pdf) - [Beispieldaten](beispieldaten) -  [Lösungshinweise](baulwuerfe_loesung.pdf) 
+[Aufgabenstellung](baulwuerfe.pdf) - [Beispieldaten](beispieldaten.md) -  [Lösungshinweise](baulwuerfe_loesung.pdf) 
 
 
 #### Python

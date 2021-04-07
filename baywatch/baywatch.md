@@ -8,7 +8,7 @@
 
 #### Hinweise zu den Beispieldaten
 
-[Beispieldaten](./beispieldaten/)
+[Beispieldaten](beispieldaten.md)
 
 Zu dieser Aufgabe gibt es sechs Textdateien mit Beispieleingaben für verschiedene Amöben-Inseln, wobei die erste Datei das Beispiel für die Insel „Big Amoeba“ in der Aufgabenstellung enthält.
 

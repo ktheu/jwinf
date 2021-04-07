@@ -2,7 +2,7 @@
 
 36\. Bundeswettbewerb Informatik - Junioraufgabe 2
 
-[Aufgabenstellung](wintervorrat.pdf) - [Beispieldaten](beispieldaten) -  [Lösungshinweise](wintervorrat_loesung.pdf) 
+[Aufgabenstellung](wintervorrat.pdf) - [Beispieldaten](beispieldaten.md) -  [Lösungshinweise](wintervorrat_loesung.pdf) 
 
 Interpretation der Beispieldaten:
 
