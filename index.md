@@ -1,4 +1,8 @@
-## Jugendwettbewerb Informatik
+# Jugendwettbewerb Informatik
+
+-----
+
+## Runde 1 + 2
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
 
@@ -67,6 +71,38 @@ nur begrenzte Zeit zur Verfügung.
 * [Runde 2 2020, Weg wiederholen 4*](https://youtu.be/0vzuzkAeGyI)
 * [Runde 2 2020, Twist 4*](https://youtu.be/tWTi9uUg_Yo)
 
+
+-----
+
+## Runde 3
+
+Die Aufgaben der Runde 3 sind die beiden Junioraufgaben des [Bundeswettbewerbs Informatik.](https://bwinf.de/bundeswettbewerb/)
+
+Beispiele:
+
+__[Landnahme](./landnahme/landnahme.md)__  (J34-1)
+
+__[Kassiopeia](./kassiopeia/kassiopeia.md)__  (J34-2)
+
+__[Luftballons](./luftballons/luftballons.md)__ (J35-1)
+
+__[Lama](./lama/lama.md)__ (J35-2)
+
+__[Bücherregal](./buecherregal/buecherregal.md)__ (J36-1)
+
+__[Wintervorrat](./wintervorrat/wintervorrat.md)__ (J36-2)
+
+__[Auf und Ab](./auf_und_ab/auf_und_ab.md)__  (J37-1)
+
+__[Baywatch](./baywatch/baywatch.md)__  (J37-2)
+
+__[Parallelen](./parallelen/parallelen.md)__ - (J38-1)
+
+__[Kacheln](./kacheln/kacheln.md)__ - (J38-2)
+
+__[Passwörter](./passwoerter/passwoerter.md)__ (J39-1)
+
+__[Baulwürfe](./baulwuerfe/baulwuerfe.md)__ (J39-2)
 
 
 
