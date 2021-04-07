@@ -2,7 +2,7 @@
 
 36\. Bundeswettbewerb Informatik - Junioraufgabe 1
 
-[Aufgabenstellung](buecherregal.pdf) - [Beispieldaten](beispieldaten) -  [Lösungshinweise](buecherregal_loesung.pdf) 
+[Aufgabenstellung](buecherregal.pdf) - [Beispieldaten](beispieldaten.md) -  [Lösungshinweise](buecherregal_loesung.pdf) 
 
 Die Aufgabenstellung enthält einen Fehler: 
 Die Größe der Bücher in den Beispieldaten ist in mm angegeben, nicht in cm.

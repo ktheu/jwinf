@@ -2,7 +2,7 @@
 
 34\. Bundeswettbewerb Informatik - Junioraufgabe 2
 
-[Aufgabenstellung](kassiopeia.pdf) - [Beispieldaten](beispieldaten) -  [Lösungshinweise](kassiopeia_loesung.pdf) 
+[Aufgabenstellung](kassiopeia.pdf) - [Beispieldaten](beispieldaten.md) -  [Lösungshinweise](kassiopeia_loesung.pdf) 
 
 #### Pseudocode und Datenstrukturen
 
