@@ -68,11 +68,13 @@ nur begrenzte Zeit zur Verfügung.
 
 ---
 
-## Übungen für Runde 3
-
--   [Einlesen von Daten](./uebungen/dateien.ipynb)
-
 ## Runde 3
+
+#### Übungen
+
+-   [Einlesen von Daten](https://mybinder.org/v2/gh/ktheu/jwinf/HEAD?filepath=uebungen%2Fdateien.ipynb)
+
+#### Beispielaufgaben
 
 Die Aufgaben der Runde 3 sind die beiden Junioraufgaben des [Bundeswettbewerbs Informatik.](https://bwinf.de/bundeswettbewerb/)
 
