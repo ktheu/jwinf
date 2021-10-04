@@ -72,7 +72,7 @@ nur begrenzte Zeit zur Verfügung.
 
 #### Übungen
 
--   [A1](https://replit.com/@ktheu42/)
+-   [A1](https://replit.com/@ktheu42/A1)
 
 #### Beispielaufgaben
 
