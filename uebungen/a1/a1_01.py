@@ -4,7 +4,7 @@ Speichere die Werte in der ersten Zeile in den Variablen anz_haus und anz_mast.
 Speichere die Koordinaten der Häuser in eine Liste haeuser, die Koordinaten der Masten in einer Liste masten.
 '''
 # hier dein code
-f = open('daten01.txt')
+f = open('daten.txt')
 anz_haus, anz_mast = [int(x) for x in f.readline().split()]
     
 haeuser = []
