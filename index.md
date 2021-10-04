@@ -72,7 +72,7 @@ nur begrenzte Zeit zur Verfügung.
 
 #### Übungen
 
--   [Einlesen von Daten](https://mybinder.org/v2/gh/ktheu/jwinf/HEAD?filepath=uebungen%2Fdateien.ipynb)
+-   [A1](https://replit.com/@ktheu42/)
 
 #### Beispielaufgaben
 
