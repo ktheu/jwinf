@@ -68,7 +68,9 @@ nur begrenzte Zeit zur Verfügung.
 
 ---
 
-## Runde 3
+Hinweise für Runde 3 gibt es in der [Algorithmen AG](https://ktheu.github.io/AlgorithmenAG/)
+
+<!-- ## Runde 3
 
 #### Übungen
 
@@ -102,4 +104,4 @@ Beispiele:
 
 **[Passwörter](./passwoerter/passwoerter.md)** (J39-1)
 
-**[Baulwürfe](./baulwuerfe/baulwuerfe.md)** (J39-2)
+**[Baulwürfe](./baulwuerfe/baulwuerfe.md)** (J39-2) -->
