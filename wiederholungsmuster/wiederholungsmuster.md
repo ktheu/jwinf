@@ -11,6 +11,10 @@ Finde bei den folgenden Beispielen Muster, die zum Ziel führen.
 
 ---
 
+<img src="muster4.png" width="800">
+
+---
+
 <img src="muster2.png" width="800">
 
 ---
