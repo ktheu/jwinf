@@ -3,7 +3,7 @@
 Bei manchen Aufgaben müssen wir geeignete Muster finden, die wir wiederholen können, um mit
 den verfügbaren Bausteinen die Aufgabe zu lösen.
 
-Finde bei den folgenden Beispiele Muster, die zum Ziel führen.
+Finde bei den folgenden Beispielen Muster, die zum Ziel führen.
 
 ---
 
