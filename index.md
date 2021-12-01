@@ -6,6 +6,8 @@
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
 
+[Übungen](uebungen.md)
+
 ### Trainingsaufgaben
 
 Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben bis einschließlich
