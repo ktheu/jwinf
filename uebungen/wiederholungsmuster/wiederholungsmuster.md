@@ -28,7 +28,3 @@ Finde bei den folgenden Beispielen Muster, die zum Ziel führen.
 ---
 
 <img src="muster5.png" width="800">
-
----
-
-<img src="muster6.png" width="800">

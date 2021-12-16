@@ -6,7 +6,7 @@
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
 
-[Übungen](uebungen.md)
+[Übungen](./uebungen/uebungen.md)
 
 ### Trainingsaufgaben
 
