@@ -2,6 +2,8 @@
 
 ---
 
+[Python lernen bei OpenHPI](https://open.hpi.de/courses/pythonjunior-schule2022)
+
 ## Runde 1 + 2
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
