@@ -2,7 +2,7 @@
 
 ---
 
-[Python lernen bei OpenHPI](https://open.hpi.de/courses/pythonjunior-schule2022)
+[Python lernen bei OpenHPI](https://open.hpi.de/courses/pythonjunior-schule2022) - [Folien](./openHpi/inhalte.md)
 
 ## Runde 1 + 2
 
