@@ -2,10 +2,20 @@
 
 ---
 
-### Woche 1
+### Teil 1
 
 -   [Erstes Programmierbeispiel](1.1_-_Erstes_Programmierbeispiel.pdf)
 -   [Variablen](1.3_-_Variablen.pdf)
 -   [Strings](1.4_-_Strings.pdf)
 -   [Turtle 1](1.6_-_Turtle_1.pdf)
 -   [Turtle 2](1.7_-_Turtle_2.pdf)
+
+### Teil 2
+
+-   [Verzweigungen](2.1_-_Verzweigungen_1.pdf)
+-   [Daten importieren](2.1.b_Daten_importieren.pdf)
+-   [Verzweigungen 2](2.2_-_Verzweigungen_2.pdf)
+-   [Schleifen](2.3_-_Schleifen.pdf)
+-   [Listen 1](2.4_-_Listen_1.pdf)
+-   [Listen 2](2.5_-_Listen_2.pdf)
+-   [Listen 3](2.6_-_Listen_3.pdf)
