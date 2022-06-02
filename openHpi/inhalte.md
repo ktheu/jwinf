@@ -19,3 +19,10 @@
 -   [Listen 1](2.4_-_Listen_1.pdf)
 -   [Listen 2](2.5_-_Listen_2.pdf)
 -   [Listen 3](2.6_-_Listen_3.pdf)
+
+### Teil 3
+
+-   [Funktionen ohne Parameter](3.1_-_Funktionen_ohne_Parameter.pdf)
+-   [Funktionen mit Parameter](3.2_-_Funktionen_mit_Parametern.pdf)
+-   [Dictionaries](3.3_-_Dictionaries.pdf)
+-   [Zufallszahlen](3.4_-_Zufallszahlen.pdf)
