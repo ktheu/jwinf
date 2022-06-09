@@ -26,3 +26,11 @@
 -   [Funktionen mit Parameter](3.2_-_Funktionen_mit_Parametern.pdf)
 -   [Dictionaries](3.3_-_Dictionaries.pdf)
 -   [Zufallszahlen](3.4_-_Zufallszahlen.pdf)
+
+### Teil 4
+
+-   [Eingabe](4.1_-_Eingabe.pdf)
+-   [Zahlenraten](4.2_-_Zahlenraten.pdf)
+-   [Snake-Spiel](4.3_-_Snake-Spiel_1.pdf)
+-   [Snake-Spiel2](4.4_-_Snake-Spiel_2.pdf)
+-   [Snake-Spiel3](4.5_-_Snake-Spiel_3.pdf)
