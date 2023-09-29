@@ -69,7 +69,6 @@ nur begrenzte Zeit zur Verfügung.
 
 ---
 
-Hinweise für Runde 3 gibt es in der [Algorithmen AG](https://ktheu.github.io/AlgorithmenAG/)
 
 <!-- ## Runde 3
 
