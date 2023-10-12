@@ -19,7 +19,7 @@ einen Durchgang mit Schwierigkeit 2- oder 3-Sternen zu machen.
 ### Herausforderungen
 
 Die Herausforderungen sind wie Probewettbewerbe. Für die Bearbeitung benötigt man einen Login-Code und hat
-nur begrenzte Zeit zur Verfügung.
+manchmal nur begrenzte Zeit zur Verfügung.
 
 ### Lösungen für einige Trainingsaufgaben
 
@@ -68,6 +68,21 @@ nur begrenzte Zeit zur Verfügung.
 -   [Runde 2 2020, Twist 4\*](https://youtu.be/tWTi9uUg_Yo)
 
 ---
+
+### Python
+
+####  [Blockly -> Python](./blockly.md)
+
+
+Von den [Jwinf Trainingsaufgaben für Python](https://jwinf.de/contest/?filter=open)
+empfehle ich folgende Auswahl:
+
+  - Grundbausteine 
+  - Schildkröte Einführung
+  - Wiederholungen Vertiefung
+  - Wiederholungen Übungen, außer: Schneeflocke 3, 4 - Schlange 4 - Flaggen 3, 4
+  - Bedingte Anweisungen Übungen, außer: Beheize das Schloß 4 - Plattformen 4 - Edelsteine 4 - Zelluläre Automaten 4
+
 
 
 <!-- ## Runde 3
