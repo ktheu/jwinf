@@ -5,7 +5,7 @@
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
 
-[Übungen](./uebungen/uebungen.md)
+[Blockly-Muster](./muster/muster.md) - [Übungen](./uebungen/uebungen.md)
 
 ### Trainingsaufgaben
 
