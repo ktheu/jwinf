@@ -83,40 +83,16 @@ empfehle ich folgende Auswahl:
   - Wiederholungen Übungen, außer: Schneeflocke 3, 4 - Schlange 4 - Flaggen 3, 4
   - Bedingte Anweisungen Übungen, außer: Beheize das Schloß 4 - Plattformen 4 - Edelsteine 4 - Zelluläre Automaten 4
 
+----- 
+
+### TigerJython
+
+[WebTigerJython](https://webtigerjython.ethz.ch/) - Online Editor für Turtle-Programme
 
 
-<!-- ## Runde 3
+[Turtlegrafik mit TigerJython](https://www.tigerjython4kids.ch/index.php?inhalt_links=turtle/navigation.inc.php&inhalt_mitte=turtle/turtle.inc.php) - Tutorial mit Aufgaben 
 
-#### Übungen
 
--   [A1](https://replit.com/@ktheu42/A1)
 
-#### Beispielaufgaben
 
-Die Aufgaben der Runde 3 sind die beiden Junioraufgaben des [Bundeswettbewerbs Informatik.](https://bwinf.de/bundeswettbewerb/)
 
-Beispiele:
-
-**[Landnahme](./landnahme/landnahme.md)** (J34-1)
-
-**[Kassiopeia](./kassiopeia/kassiopeia.md)** (J34-2)
-
-**[Luftballons](./luftballons/luftballons.md)** (J35-1)
-
-**[Lama](./lama/lama.md)** (J35-2)
-
-**[Bücherregal](./buecherregal/buecherregal.md)** (J36-1)
-
-**[Wintervorrat](./wintervorrat/wintervorrat.md)** (J36-2)
-
-**[Auf und Ab](./auf_und_ab/auf_und_ab.md)** (J37-1)
-
-**[Baywatch](./baywatch/baywatch.md)** (J37-2)
-
-**[Parallelen](./parallelen/parallelen.md)** - (J38-1)
-
-**[Kacheln](./kacheln/kacheln.md)** - (J38-2)
-
-**[Passwörter](./passwoerter/passwoerter.md)** (J39-1)
-
-**[Baulwürfe](./baulwuerfe/baulwuerfe.md)** (J39-2) -->
