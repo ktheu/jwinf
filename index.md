@@ -1,25 +1,30 @@
 # Jugendwettbewerb Informatik
 
-
 ## Runde 1 + 2
 
 [Trainingsaufgaben, Herausforderungen, Infos und Wettbewerb](https://jwinf.de/)
 
-[Blockly-Muster](./muster/muster.md) - [Übungen](./uebungen/uebungen.md)
-
 ### Trainingsaufgaben
 
-Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben bis einschließlich
-`Variablen und Logik` durchzuarbeiten. `Funktionen und Listen` sind da vermutlich noch
-nicht erforderlich.
+Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben von `Grundbausteine - Einführung` bis einschließlich
+`Variablen und Logik - Einführung` durchzuarbeiten. 
 
-Die 4-Sterne Aufgaben sind manchmal knifflig, da kann man viel Zeit verlieren. Ich rate daher, erst
-einen Durchgang mit Schwierigkeit 2- oder 3-Sternen zu machen.
+Für die 2. Runde kommen die folgenden Abschnitte bis `Listen - Übungen` hinzu. Wer in der 1. Runde einigermaßen
+Punkte gesammelt hat, für den reichen in der Regel die 2 oder 3 Sterne-Aufgaben aus, um die Qualifikation in die 3. Runde zu schaffen.
+
+#### Python
+
+Die Trainingsaufgaben in Python sind für den Wettbewerb nicht relevant. Sie eignen sich als Einstieg in Python.
+
+Entsprechungen von Blockly in Python: 
+- [falls, wiederhole, zähle](./blockly1/blockly1.md)
+- [Text, Listen](./blockly2/blockly2.md) 
 
 ### Herausforderungen
 
 Die Herausforderungen sind wie Probewettbewerbe. Für die Bearbeitung benötigt man einen Login-Code und hat
 manchmal nur begrenzte Zeit zur Verfügung.
+
 
 ### Lösungen für einige Trainingsaufgaben
 
@@ -67,30 +72,11 @@ manchmal nur begrenzte Zeit zur Verfügung.
 -   [Runde 2 2020, Weg wiederholen 4\*](https://youtu.be/0vzuzkAeGyI)
 -   [Runde 2 2020, Twist 4\*](https://youtu.be/tWTi9uUg_Yo)
 
----
-
-### Python
-
-####  [Blockly -> Python](./blockly.md)
+ 
 
 
-Von den [Jwinf Trainingsaufgaben für Python](https://jwinf.de/contest/?filter=open)
-empfehle ich folgende Auswahl:
-
-  - Grundbausteine 
-  - Schildkröte Einführung
-  - Wiederholungen Vertiefung
-  - Wiederholungen Übungen, außer: Schneeflocke 3, 4 - Schlange 4 - Flaggen 3, 4
-  - Bedingte Anweisungen Übungen, außer: Beheize das Schloß 4 - Plattformen 4 - Edelsteine 4 - Zelluläre Automaten 4
-
------ 
-
-### TigerJython
-
-[WebTigerJython](https://webtigerjython.ethz.ch/) - Online Editor für Turtle-Programme
 
 
-[Turtlegrafik mit TigerJython](https://www.tigerjython4kids.ch/index.php?inhalt_links=turtle/navigation.inc.php&inhalt_mitte=turtle/turtle.inc.php) - Tutorial mit Aufgaben 
 
 
 

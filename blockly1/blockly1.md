@@ -1,16 +1,9 @@
-### Blockly - Python
+### Von Blockly nach Python
 
+#### Bedingte Anweisungen (falls)
 ---
 
-<img src='./images/bild0.png' width='200'>
-
-```
-for i in range(6):
-    oben()
-```
----
-
-<img src='./images/bild2.png' width='200'>
+<img src='./bild2.png' width='200'>
 
 ```
 if hindernisRechts():
@@ -18,7 +11,7 @@ if hindernisRechts():
 ```
 
 ---
-<img src='./images/bild1.png' width='200'>
+<img src='./bild1.png' width='200'>
 
 ```
 if hindernisOben():
@@ -28,7 +21,7 @@ else:
 ```
 
 ---
-<img src='./images/bild7.png' width='250'>
+<img src='./bild7.png' width='250'>
 
 ```
 if hindernisRechts():
@@ -41,15 +34,25 @@ else:
 ```
 
 ---
-<img src='./images/bild6.png' width='300'>
+<img src='./bild6.png' width='300'>
 
 ```
 if not plattformOben():
     bauePlattformOben()
 ```
 
+#### Schleifen (wiederhole, zähle)
 ---
-<img src='./images/bild3.png' width='300'>
+
+<img src='./bild0.png' width='200'>
+
+```
+for i in range(6):
+    oben()
+```
+
+---
+<img src='./bild3.png' width='300'>
 
 ```
 while aufPfeilNachRechts():
@@ -57,7 +60,7 @@ while aufPfeilNachRechts():
 ```
 
 ---
-<img src='./images/bild4.png' width='300'>
+<img src='./bild4.png' width='300'>
 
 ```
 for i in range(1,18):
@@ -66,7 +69,7 @@ for i in range(1,18):
 ```
 
 ---
-<img src='./images/bild5.png' width='300'>
+<img src='./bild5.png' width='300'>
 
 ```
 for i in range(17,0,-1):

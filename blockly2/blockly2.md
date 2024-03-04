@@ -1,10 +1,9 @@
-## Muster für Blockly-Programme
-
-Muster für Blockly-Programme und ihre Entsprechung in Python
-
----
+### Von Blockly nach Python  
 
 #### Text
+
+
+---
 
 Den letzten Buchstaben in eine Variable speichern:
 
@@ -47,33 +46,6 @@ anfang = wort[:-k]
 ```
 
 ----
-
-#### Bedingte Anweisungen
-
-Durch Click auf das blaue Bearbeitungsrädchen können wir die bedingte Anweisungen mit mehreren
-```sonst falls``` und mit oder ohne ```sonst``` erstellen.
-
-
-<img src='elif2else.png' width='300'>
-
-```
-if ... 
-elif ....
-elif ...
-else 
-```
-----
-
-<img src='elif3.png' width='300'>
-
-```
-if ....
-elif ....
-elif ...
-elif ...
-```
-
------
 
 #### Listen
 
