@@ -44,6 +44,10 @@ manchmal nur begrenzte Zeit zur Verfügung.
 ##### Wiederholungen
 
 -   [Alle Murmeln 4\*](https://youtu.be/8pexoQt4adg)
+  
+##### Wiederholungen Übungen
+-   [Schlange 4\*](https://youtu.be/jeR9FFL0Eic)
+
 
 ##### Schildkröte Wiederholungen
 
