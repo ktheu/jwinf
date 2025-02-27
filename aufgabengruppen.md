@@ -14,6 +14,8 @@
 
 #### Labyrinth 2
 
+[Video](https://youtu.be/NqSdgEtghNo)
+
 
 - [2024 Runde 1 - Erobere die Flagge](https://jwinf.de/task/1491)
 
