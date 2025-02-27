@@ -20,10 +20,12 @@ Entsprechungen von Blockly in Python:
 - [falls, wiederhole, zähle](./blockly1/blockly1.md)
 - [Text, Listen](./blockly2/blockly2.md) 
 
-### Herausforderungen
 
-Die Herausforderungen sind wie Probewettbewerbe. Für die Bearbeitung benötigt man einen Login-Code und hat
-manchmal nur begrenzte Zeit zur Verfügung.
+### [Aufgabengruppen](./aufgabengruppen.md)
+
+
+
+
 
 
 ### Lösungen für einige Trainingsaufgaben
