@@ -37,3 +37,30 @@
 - [2021 R1 - Stufen](https://jwinf.de/task/1044)
 
 - [2023 R1 - Werkzeugteile sammeln](https://jwinf.de/task/1370)
+
+
+#### Text
+
+- [2022 R1 - Text]
+
+- [2024 R1 - T-Shirt Größen](https://jwinf.de/task/1489)
+
+- [2022 R1 - Windräder](https://jwinf.de/task/1099)
+
+- [2023 R1 - Hangman](https://jwinf.de/task/1365)
+
+- [2020 R1 - Geheimwort](https://jwinf.de/task/1009)
+
+
+#### Variablen
+
+- [2024 R1 - Gerechte Mahlzeit](https://jwinf.de/task/1488)
+
+- [2023 R1 - Rechnen](https://jwinf.de/task/1363)
+
+- [2020 R1 - Bildcode](https://jwinf.de/task/1020)
+
+- [2021 R1 - EAN](https://jwinf.de/task/1069)
+
+
+
