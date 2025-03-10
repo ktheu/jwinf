@@ -58,11 +58,17 @@
 - [2023 R1 - Hangman](https://jwinf.de/task/1365)
 
 
-#### Variablen
+#### Variablen 1
+
+[Video](https://youtu.be/PZL1ACUI900)
 
 - [2024 R1 - Gerechte Mahlzeit](https://jwinf.de/task/1488)
 
 - [2023 R1 - Rechnen](https://jwinf.de/task/1363)
+
+#### Variablen 2
+
+[Video](https://youtu.be/YhzIQv7CacI)
 
 - [2020 R1 - Bildcode](https://jwinf.de/task/1020)
 
