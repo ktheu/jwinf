@@ -99,16 +99,18 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 #### Funktionen
 
 -   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video](https://youtu.be/zd1EjB9BOMM)
--   [Funktionen Übung: Kreuz 4](https://jwinf.de/task/1611) - [Video 4*](https://youtu.be/Kau-RgVibW0)
+-   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video 4*](https://youtu.be/Kau-RgVibW0)
 
 #### Listen
--   [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 2*](https://youtu.be/whKnaFHB2MQ) - [Video 3*](https://youtu.be/23mocZKsm-E)
+-   [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 2*](https://youtu.be/whKnaFHB2MQ) -
+    [Video 3*](https://youtu.be/23mocZKsm-E)
  
 
 #### Weitere Aufgaben
 
 -  [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
--  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2*](https://youtu.be/V5vlW5HpTMM) - [Video 3*](https://youtu.be/kOW3v_OcYhE)
+-  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2*](https://youtu.be/V5vlW5HpTMM)
+   [Video 3*](https://youtu.be/kOW3v_OcYhE)
 -  [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
 -  [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
 -  [Runde 1 2020, 9-13, Tannenbaum](https://jwinf.de/task/1021) - [Video 4*](https://youtu.be/jYy0vt45edw) (alte Grafik)
