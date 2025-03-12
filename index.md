@@ -96,9 +96,9 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 - [2021 R1 - EAN](https://jwinf.de/task/1069)
 
 
-#### Funktionen  
+#### Funktionen
 
--   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video 3*](https://youtu.be/3ZBAFbKyTEU) - [Video 4*](https://youtu.be/oxtRyCQvnU8) (alte Grafik)
+-   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video](https://youtu.be/zd1EjB9BOMM)
 -   [Funktionen Übung: Kreuz 4](https://jwinf.de/task/1611) - [Video 4*](https://youtu.be/Kau-RgVibW0)
 
 #### Listen
