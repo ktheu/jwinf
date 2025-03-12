@@ -101,12 +101,13 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video](https://youtu.be/zd1EjB9BOMM)
 -   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video](https://youtu.be/zxhLsYW4-DY)
 
-#### Listen
+#### Listen 1
 
-[Video](https://youtu.be/h7Cduo4xIWg)
+[Video](https://youtu.be/6EIfzztl_c8)
 
 -  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1614)
 -  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1615)
+-  [Listen Einführung - Liste durchlaufen](https://jwinf.de/task/1616)
  
 
 #### Weitere Aufgaben
