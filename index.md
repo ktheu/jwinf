@@ -117,7 +117,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -  [Runde 2 2020, Höhle füllen](https://jwinf.de/task/1028) - [Video 4*](https://youtu.be/Eex_FRz3_IY) (alte Grafik)
 -  [Runde 2 2020, Lücken füllen](https://jwinf.de/task/1030) - [Video 4*](https://youtu.be/vhvSNwMDJs8) (alte Grafik)
 -  [Runde 2 2020, Weg wiederholen](https://jwinf.de/task/1032) - [Video 4*](https://youtu.be/0vzuzkAeGyI) (alte Grafik)
-- x [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
+-  [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
 
  
 
