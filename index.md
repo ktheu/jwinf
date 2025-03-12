@@ -99,7 +99,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 #### Funktionen
 
 -   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video](https://youtu.be/zd1EjB9BOMM)
--   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video 4*](https://youtu.be/Kau-RgVibW0)
+-   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video](https://youtu.be/zxhLsYW4-DY)
 
 #### Listen
 -   [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 2s](https://youtu.be/whKnaFHB2MQ) -
