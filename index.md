@@ -1,4 +1,4 @@
-# Jugendwettbewerb Informatik
+## Jugendwettbewerb Informatik
 
 ### Runde 1 + 2
 
@@ -102,14 +102,18 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video](https://youtu.be/zxhLsYW4-DY)
 
 #### Listen
--   [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 2s](https://youtu.be/whKnaFHB2MQ) -
-    [Video 4s](https://youtu.be/23mocZKsm-E)
+
+[Video](https://youtu.be/h7Cduo4xIWg)
+
+-  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1614)
+-  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1615)
  
 
 #### Weitere Aufgaben
 
 -  [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
 -  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2s](https://youtu.be/V5vlW5HpTMM)
+-  [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 4s](https://youtu.be/23mocZKsm-E)
    [Video 3s](https://youtu.be/kOW3v_OcYhE)
 -  [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
 -  [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
