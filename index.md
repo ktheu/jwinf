@@ -107,15 +107,15 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 #### Weitere Aufgaben
 
--   [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
--   [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2*](https://youtu.be/V5vlW5HpTMM) - [Video 3*](https://youtu.be/kOW3v_OcYhE)
--   [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
--   [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
--   [Runde 1 2020, 9-13, Tannenbaum](https://jwinf.de/task/1021) - [Video 4*](https://youtu.be/jYy0vt45edw) (alte Grafik)
--   [Runde 2 2020, Höhle füllen](https://jwinf.de/task/1028) - [Video 4*](https://youtu.be/Eex_FRz3_IY) (alte Grafik)
--   [Runde 2 2020, Lücken füllen](https://jwinf.de/task/1030) - [Video 4*](https://youtu.be/vhvSNwMDJs8) (alte Grafik)
--   [Runde 2 2020, Weg wiederholen](https://jwinf.de/task/1032) - [Video 4*](https://youtu.be/0vzuzkAeGyI) (alte Grafik)
--   [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
+-  [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
+-  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2*](https://youtu.be/V5vlW5HpTMM) - [Video 3*](https://youtu.be/kOW3v_OcYhE)
+-  [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
+-  [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
+-  [Runde 1 2020, 9-13, Tannenbaum](https://jwinf.de/task/1021) - [Video 4*](https://youtu.be/jYy0vt45edw) (alte Grafik)
+-  [Runde 2 2020, Höhle füllen](https://jwinf.de/task/1028) - [Video 4*](https://youtu.be/Eex_FRz3_IY) (alte Grafik)
+-  [Runde 2 2020, Lücken füllen](https://jwinf.de/task/1030) - [Video 4*](https://youtu.be/vhvSNwMDJs8) (alte Grafik)
+-  [Runde 2 2020, Weg wiederholen](https://jwinf.de/task/1032) - [Video 4*](https://youtu.be/0vzuzkAeGyI) (alte Grafik)
+- x [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
 
  
 
