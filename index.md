@@ -108,6 +108,17 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1867)
 -  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1868)
 -  [Listen Einführung - Liste durchlaufen](https://jwinf.de/task/1869)
+-  
+
+#### Probewettbewerb 2025 - Runde 2
+
+- [Logisches Malen] - [Video](https://youtu.be/OPOMtvfyNbw)
+- [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM)
+- [Blumen](https://jwinf.de/task/1862) -[Video](https://youtu.be/nreStXWUrec)
+- [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
+- [Roller einsammeln](https://jwinf.de/task/1101) - [Video](https://youtu.be/wqEir11ipaQ)
+- [Diamanten](https://jwinf.de/task/1106) - [Video](https://youtu.be/29hSWgir8Bk)
+- [James Bond](https://jwinf.de/task/1506) - [Video](https://youtu.be/OdcyyJSsZlk)
  
 
 #### Weitere Aufgaben
