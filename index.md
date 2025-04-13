@@ -30,9 +30,9 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 [Video](https://youtu.be/y_Gne3OH6xY)
 
-- [Einführung - Muster malen](https://jwinf.de/task/1558)   
-- [Einführung - Mehr Wiederholungen](https://jwinf.de/task/1561) 
-- [Einführung - Fischen](https://jwinf.de/task/1563)  
+- [Einführung - Muster malen](https://jwinf.de/task/1812)   
+- [Einführung - Mehr Wiederholungen](https://jwinf.de/task/1815) 
+- [Einführung - Fischen](https://jwinf.de/task/1817)  
 
 #### Labyrinth 1 
 
@@ -123,6 +123,9 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -  [Runde 2 2020, Lücken füllen](https://jwinf.de/task/1030) - [Video 4*](https://youtu.be/vhvSNwMDJs8) (alte Grafik)
 -  [Runde 2 2020, Weg wiederholen](https://jwinf.de/task/1032) - [Video 4*](https://youtu.be/0vzuzkAeGyI) (alte Grafik)
 -  [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
+
+ 
+ 
 
  
 
