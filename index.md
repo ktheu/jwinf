@@ -104,13 +104,11 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 -   [Blumen](https://jwinf.de/task/1862) -[Video](https://youtu.be/nreStXWUrec)
 -   [Diamanten](https://jwinf.de/task/1106) - [Video](https://youtu.be/29hSWgir8Bk)
 
-#### Listen 1
-
+#### Listen 
 
 -  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1867),
    [Liste durchsuchen](https://jwinf.de/task/1868),
    [Liste durchlaufen](https://jwinf.de/task/1869) - [Video](https://youtu.be/6EIfzztl_c8)
- 
 - [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
 - [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM)
 
