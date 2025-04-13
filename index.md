@@ -33,6 +33,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 - [Einführung - Muster malen](https://jwinf.de/task/1812)   
 - [Einführung - Mehr Wiederholungen](https://jwinf.de/task/1815) 
 - [Einführung - Fischen](https://jwinf.de/task/1817)  
+- [Roller einsammeln](https://jwinf.de/task/1101) - [Video](https://youtu.be/wqEir11ipaQ)
 
 #### Labyrinth 1 
 
@@ -100,25 +101,27 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 -   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1861) - [Video](https://youtu.be/zd1EjB9BOMM)
 -   [Funktionen Übung: Kreuz](https://jwinf.de/task/1864) - [Video](https://youtu.be/zxhLsYW4-DY)
+-   [Blumen](https://jwinf.de/task/1862) -[Video](https://youtu.be/nreStXWUrec)
+-   [Diamanten](https://jwinf.de/task/1106) - [Video](https://youtu.be/29hSWgir8Bk)
 
 #### Listen 1
 
 [Video](https://youtu.be/6EIfzztl_c8)
-
 -  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1867)
 -  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1868)
 -  [Listen Einführung - Liste durchlaufen](https://jwinf.de/task/1869)
--  
+ 
+- [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
+- [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM)
 
-#### Probewettbewerb 2025 - Runde 2
+#### Grids (Zeilen, Spalten)
+
+- [James Bond](https://jwinf.de/task/1506) - [Video](https://youtu.be/OdcyyJSsZlk)
+
+#### Logik (and or not)
 
 - [Logisches Malen] - [Video](https://youtu.be/OPOMtvfyNbw)
-- [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM)
-- [Blumen](https://jwinf.de/task/1862) -[Video](https://youtu.be/nreStXWUrec)
-- [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
-- [Roller einsammeln](https://jwinf.de/task/1101) - [Video](https://youtu.be/wqEir11ipaQ)
-- [Diamanten](https://jwinf.de/task/1106) - [Video](https://youtu.be/29hSWgir8Bk)
-- [James Bond](https://jwinf.de/task/1506) - [Video](https://youtu.be/OdcyyJSsZlk)
+ 
  
 
 #### Weitere Aufgaben
