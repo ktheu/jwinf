@@ -28,74 +28,43 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 #### Schleifen
 
-[Video](https://youtu.be/y_Gne3OH6xY)
-
-- [Einführung - Muster malen](https://jwinf.de/task/1812)   
-- [Einführung - Mehr Wiederholungen](https://jwinf.de/task/1815) 
-- [Einführung - Fischen](https://jwinf.de/task/1817)  
+- [Einführung: Muster malen](https://jwinf.de/task/1812), [Mehr Wiederholungen](https://jwinf.de/task/1815),
+  [Fischen](https://jwinf.de/task/1817) - [Video](https://youtu.be/y_Gne3OH6xY)
 - [Roller einsammeln](https://jwinf.de/task/1101) - [Video](https://youtu.be/wqEir11ipaQ)
 
-#### Labyrinth 1 
+#### Labyrinth 
 
- [Video](https://youtu.be/zwgAYQfCgw4)
-
-
-- [Bedingte Anweisung, Übungen - Finde das Ziel](https://jwinf.de/task/1582)
-- [Bedingte Anweisung, Übungen - Finde den Weg zum See](https://jwinf.de/task/1583)
-- [2021 Runde 1 - Labyrinth](https://jwinf.de/task/1065)
-
-
-#### Labyrinth 2
-
-[Video](https://youtu.be/NqSdgEtghNo)
-
-
-- [2024 Runde 1 - Erobere die Flagge](https://jwinf.de/task/1491)
-- [2022 Runde 1 - Paketzusteller](https://jwinf.de/task/1102)
-- [2020 Runde 1 - Weg folgen](https://jwinf.de/task/1017)
-- [Grundbausteine Einführung - Labyrinth](https://jwinf.de/task/1814)
-
+- [Finde das Ziel](https://jwinf.de/task/1582), 
+[Finde den Weg zum See](https://jwinf.de/task/1583), 
+[Labyrinth](https://jwinf.de/task/1065) - [Video](https://youtu.be/zwgAYQfCgw4)
+- [Erobere die Flagge](https://jwinf.de/task/1491),
+[Paketzusteller](https://jwinf.de/task/1102),
+[Weg folgen](https://jwinf.de/task/1017),
+[Labyrinth](https://jwinf.de/task/1814) - [Video](https://youtu.be/NqSdgEtghNo)
 
 #### Zählschleifen
 
-[Video](https://youtu.be/XF8aDt7YFpE)
-
-- [2024 R1 - Sokoban](https://jwinf.de/task/1485)
-- [2022 R1 - 3D-Drucker](https://jwinf.de/task/1092)
-- [2021 R1 - Stufen](https://jwinf.de/task/1044)
-- [2023 R1 - Werkzeugteile sammeln](https://jwinf.de/task/1370)
+- [Sokoban](https://jwinf.de/task/1485),
+  [3D-Drucker](https://jwinf.de/task/1092),
+  [Stufen](https://jwinf.de/task/1044),
+  [Werkzeugteile sammeln](https://jwinf.de/task/1370) - [Video](https://youtu.be/XF8aDt7YFpE)
 
 
-#### Text 1
+#### Text 
 
-[Video](https://youtu.be/NfIzllt_pDE)   
-
-- [2022 R1 - Text](https://jwinf.de/task/1093)
-- [2024 R1 - T-Shirt Größen](https://jwinf.de/task/1489)
-- [2022 R1 - Windräder](https://jwinf.de/task/1099)
-
-#### Text 2
-
-[Video](https://youtu.be/SApkDF0OvCI)
-
-- [2020 R1 - Geheimwort](https://jwinf.de/task/1009)
-- [2023 R1 - Hangman](https://jwinf.de/task/1365)
+- [Text](https://jwinf.de/task/1093),
+[T-Shirt Größen](https://jwinf.de/task/1489),
+[Windräder](https://jwinf.de/task/1099) - [Video](https://youtu.be/NfIzllt_pDE)  
+- [Geheimwort](https://jwinf.de/task/1009),
+[Hangman](https://jwinf.de/task/1365) - [Video](https://youtu.be/SApkDF0OvCI)
 
 
-#### Variablen 1
+#### Variablen 
 
-[Video](https://youtu.be/PZL1ACUI900)
-
-- [2024 R1 - Gerechte Mahlzeit](https://jwinf.de/task/1488)
-- [2023 R1 - Rechnen](https://jwinf.de/task/1363)
-
-#### Variablen 2
-
-[Video](https://youtu.be/YhzIQv7CacI)
-
-- [2020 R1 - Bildcode](https://jwinf.de/task/1020)
-- [2021 R1 - EAN](https://jwinf.de/task/1069)
-
+- [Gerechte Mahlzeit](https://jwinf.de/task/1488), 
+[Rechnen](https://jwinf.de/task/1363) - [Video](https://youtu.be/PZL1ACUI900)
+- [Bildcode](https://jwinf.de/task/1020),
+[EAN](https://jwinf.de/task/1069) - [Video](https://youtu.be/YhzIQv7CacI)
 
 #### Funktionen
 
@@ -116,7 +85,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 - [James Bond](https://jwinf.de/task/1506) - [Video](https://youtu.be/OdcyyJSsZlk)
 
-#### Logik (and or not)
+#### Logik (and, or, not)
 
 - [Logisches Malen] - [Video](https://youtu.be/OPOMtvfyNbw)
  
