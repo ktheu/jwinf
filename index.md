@@ -52,7 +52,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 - [2024 Runde 1 - Erobere die Flagge](https://jwinf.de/task/1491)
 - [2022 Runde 1 - Paketzusteller](https://jwinf.de/task/1102)
 - [2020 Runde 1 - Weg folgen](https://jwinf.de/task/1017)
-- [Grundbausteine Einführung - Labyrinth](https://jwinf.de/task/1560)
+- [Grundbausteine Einführung - Labyrinth](https://jwinf.de/task/1814)
 
 
 #### Zählschleifen
@@ -98,23 +98,23 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 #### Funktionen
 
--   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1608) - [Video](https://youtu.be/zd1EjB9BOMM)
--   [Funktionen Übung: Kreuz](https://jwinf.de/task/1611) - [Video](https://youtu.be/zxhLsYW4-DY)
+-   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1861) - [Video](https://youtu.be/zd1EjB9BOMM)
+-   [Funktionen Übung: Kreuz](https://jwinf.de/task/1864) - [Video](https://youtu.be/zxhLsYW4-DY)
 
 #### Listen 1
 
 [Video](https://youtu.be/6EIfzztl_c8)
 
--  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1614)
--  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1615)
--  [Listen Einführung - Liste durchlaufen](https://jwinf.de/task/1616)
+-  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1867)
+-  [Listen Einführung - Liste durchsuchen](https://jwinf.de/task/1868)
+-  [Listen Einführung - Liste durchlaufen](https://jwinf.de/task/1869)
  
 
 #### Weitere Aufgaben
 
 -  [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
 -  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2s](https://youtu.be/V5vlW5HpTMM)
--  [Listen Übungen: Felder färben](https://jwinf.de/task/1619) - [Video 4s](https://youtu.be/23mocZKsm-E)
+-  [Listen Übungen: Felder färben](https://jwinf.de/task/1872) - [Video 4s](https://youtu.be/23mocZKsm-E)
    [Video 3s](https://youtu.be/kOW3v_OcYhE)
 -  [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
 -  [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
