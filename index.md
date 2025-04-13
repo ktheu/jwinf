@@ -110,7 +110,7 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
    [Liste durchsuchen](https://jwinf.de/task/1868),
    [Liste durchlaufen](https://jwinf.de/task/1869) - [Video](https://youtu.be/6EIfzztl_c8)
 - [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
-- [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM)
+<!-- - [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM) -->
 
 #### Grids (Zeilen, Spalten)
 
