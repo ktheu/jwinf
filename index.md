@@ -9,7 +9,7 @@
 Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben von `Grundbausteine - Einführung` bis einschließlich
 `Variablen und Logik - Übungen` durchzuarbeiten. 
 
-Für die 2. Runde kommen die Abschnitte zu `Funktionen` und `Listen` hinzu. Wer in der 1. Runde einigermaßen
+Für die 2. Runde kommen die Abschnitte `Funktionen` und `Listen` hinzu. Wer in der 1. Runde einigermaßen
 Punkte gesammelt hat, für den reichen in der Regel die 2 oder 3 Sterne-Aufgaben aus, um die Qualifikation in die 3. Runde zu schaffen.
 
 ### Python
