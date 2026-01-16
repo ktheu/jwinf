@@ -7,7 +7,7 @@
 ### Trainingsaufgaben
 
 Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben von `Grundbausteine - Einführung` bis einschließlich
-`Variablen und Logik - Übungen` durchzuarbeiten. 
+`Ein-/Ausgabe Übungen` durchzuarbeiten.
 
 Für die 2. Runde kommen die Abschnitte `Funktionen` und `Listen` hinzu. Wer in der 1. Runde einigermaßen
 Punkte gesammelt hat, für den reichen in der Regel die 2 oder 3 Sterne-Aufgaben aus, um die Qualifikation in die 3. Runde zu schaffen.
@@ -24,6 +24,12 @@ Entsprechungen von Blockly in Python:
 ### Videos mit Lösungen  
 
 Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die Problemstellung ist aber die gleiche.
+
+
+#### 2025 Runde 1 - Jgst 10
+
+- [Weltraumaufräumer](https://youtu.be/OumQ1CD_Noo),  [Chatbot](https://youtu.be/mnorNVfgBdw), [Sternensammler](https://youtu.be/R1tjxNi5Vh0), 
+- [Robo.Go](https://youtu.be/_mFk08gmmfE), [Holz gerecht verteilen](https://youtu.be/huaVfPK2O5E), [Bunte Socken](https://youtu.be/_ctUbGY8f_Q)
 
 
 #### Schleifen
