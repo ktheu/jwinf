@@ -42,34 +42,24 @@ Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 ungültig ge
 
 #### Zählschleifen
 
-- [Sokoban](https://jwinf.de/task/1485),
-  [3D-Drucker](https://jwinf.de/task/1092),
-  [Stufen](https://jwinf.de/task/1044),
-  [Werkzeugteile sammeln](https://jwinf.de/task/1370) - [Video](https://youtu.be/XF8aDt7YFpE)
-
+- [Sokoban, 3D-Drucker, Stufen, Werkzeugteile sammeln](https://youtu.be/XF8aDt7YFpE)
 
 #### Text 
 
-- [Text](https://jwinf.de/task/1093),
-[T-Shirt Größen](https://jwinf.de/task/1489),
-[Windräder](https://jwinf.de/task/1099) - [Video](https://youtu.be/NfIzllt_pDE)  
-- [Geheimwort](https://jwinf.de/task/1009),
-[Hangman](https://jwinf.de/task/1365) - [Video](https://youtu.be/SApkDF0OvCI)
-
+- [Text, T-Shirt Größen, Windräder](https://youtu.be/NfIzllt_pDE),
+- [Geheimwort, Hangman](https://youtu.be/SApkDF0OvCI)
 
 #### Variablen 
 
-- [Gerechte Mahlzeit](https://jwinf.de/task/1488), 
-[Rechnen](https://jwinf.de/task/1363) - [Video](https://youtu.be/PZL1ACUI900)
-- [Bildcode](https://jwinf.de/task/1020),
-[EAN](https://jwinf.de/task/1069) - [Video](https://youtu.be/YhzIQv7CacI)
+- [Gerechte Mahlzeit, Rechnen](https://youtu.be/PZL1ACUI900), 
+- [Bildcode, EAN](https://youtu.be/YhzIQv7CacI)
 
 #### Funktionen
 
--   [Funktionen Einführung: Wie verwende ich Funktionen](https://jwinf.de/task/1861) - [Video](https://youtu.be/zd1EjB9BOMM)
--   [Funktionen Übung: Kreuz](https://jwinf.de/task/1864) - [Video](https://youtu.be/zxhLsYW4-DY)
--   [Blumen](https://jwinf.de/task/1862) -[Video](https://youtu.be/nreStXWUrec)
--   [Diamanten](https://jwinf.de/task/1106) - [Video](https://youtu.be/29hSWgir8Bk)
+-   [Funktionen Einführung: Wie verwende ich Funktionen](https://youtu.be/zd1EjB9BOMM)
+-   [Funktionen Übung: Kreuz](https://youtu.be/zxhLsYW4-DY)
+-   [Blumen](https://youtu.be/nreStXWUrec)
+-   [Diamanten](https://youtu.be/29hSWgir8Bk)
 
 #### Listen 
 
