@@ -63,35 +63,32 @@ Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 ungültig ge
 
 #### Listen 
 
--  [Listen Einführung - Liste erzeugen](https://jwinf.de/task/1867),
-   [Liste durchsuchen](https://jwinf.de/task/1868),
-   [Liste durchlaufen](https://jwinf.de/task/1869) - [Video](https://youtu.be/6EIfzztl_c8)
-- [Sortieren](https://jwinf.de/task/1111) - [Video](https://youtu.be/eR0Sy0Tyux8)
-<!-- - [Listen Läufer](https://jwinf.de/task/1869) - [Video](https://youtu.be/bM7kU4FLpOM) -->
+-  [Listen Einführung - Liste erzeugen, Liste durchsuchen, Liste durchlaufen](https://youtu.be/6EIfzztl_c8)
+-  [Sortieren](https://youtu.be/eR0Sy0Tyux8)
+
 
 #### Grids (Zeilen, Spalten)
 
-- [James Bond](https://jwinf.de/task/1506) - [Video](https://youtu.be/OdcyyJSsZlk)
+- [James Bond](https://youtu.be/OdcyyJSsZlk)
 
 #### Logik (and, or, not)
 
-- [Logisches Malen] - [Video](https://youtu.be/OPOMtvfyNbw)
+- [Logisches Malen](https://youtu.be/OPOMtvfyNbw)
  
  
 
 #### Weitere Aufgaben
 
--  [Wiederholungen Übungen - Schlange](https://jwinf.de/task/1577) - [Video 4*](https://youtu.be/jeR9FFL0Eic)
--  [Wiederholungen Übungen - Schneeflocke](https://jwinf.de/task/1575) - [Video 2s](https://youtu.be/V5vlW5HpTMM)
--  [Listen Übungen: Felder färben](https://jwinf.de/task/1872) - [Video 4s](https://youtu.be/23mocZKsm-E)
-   [Video 3s](https://youtu.be/kOW3v_OcYhE)
--  [Runde 1 2019, 7-13, Kisten verschieben](https://jwinf.de/task/975) - [Video 4*](https://youtu.be/Br1NTMCsFE8) (alte Grafik)
--  [Runde 1 2020, 9-13, Diagonal verschieben](https://jwinf.de/task/1018) - [Video 4*](https://youtu.be/CpAANG502aM) (alte Grafik)
--  [Runde 1 2020, 9-13, Tannenbaum](https://jwinf.de/task/1021) - [Video 4*](https://youtu.be/jYy0vt45edw) (alte Grafik)
--  [Runde 2 2020, Höhle füllen](https://jwinf.de/task/1028) - [Video 4*](https://youtu.be/Eex_FRz3_IY) (alte Grafik)
--  [Runde 2 2020, Lücken füllen](https://jwinf.de/task/1030) - [Video 4*](https://youtu.be/vhvSNwMDJs8) (alte Grafik)
--  [Runde 2 2020, Weg wiederholen](https://jwinf.de/task/1032) - [Video 4*](https://youtu.be/0vzuzkAeGyI) (alte Grafik)
--  [Runde 2 2020, Twist](https://jwinf.de/task/1029) - [Video 4*](https://youtu.be/tWTi9uUg_Yo)
+-  [Wiederholungen Übungen - Schlange](https://youtu.be/jeR9FFL0Eic)
+-  [Wiederholungen Übungen - Schneeflocke](https://youtu.be/V5vlW5HpTMM)
+-  [Listen Übungen: Felder färben](https://youtu.be/23mocZKsm-E) -[***]https://youtu.be/kOW3v_OcYhE
+-  [Runde 1 2019, 7-13, Kisten verschieben](https://youtu.be/Br1NTMCsFE8)
+-  [Runde 1 2020, 9-13, Diagonal verschieben](https://youtu.be/CpAANG502aM)
+-  [Runde 1 2020, 9-13, Tannenbaum](https://youtu.be/jYy0vt45edw) 
+-  [Runde 2 2020, Höhle füllen](https://youtu.be/Eex_FRz3_IY) 
+-  [Runde 2 2020, Lücken füllen](https://youtu.be/vhvSNwMDJs8) 
+-  [Runde 2 2020, Weg wiederholen](https://youtu.be/0vzuzkAeGyI)
+-  [Runde 2 2020, Twist](https://youtu.be/tWTi9uUg_Yo)
 
  
  
