@@ -13,8 +13,6 @@ Für die 2. Runde kommen die Abschnitte `Funktionen` und `Listen` hinzu.
 
 ### Python
 
-Die Trainingsaufgaben in Python sind für die Runden 1+2 nicht relevant. Sie eignen sich als Einstieg in Python.
-
 Entsprechungen von Blockly in Python: 
 - [falls, wiederhole, zähle](./blockly1/blockly1.md)
 - [Text, Listen](./blockly2/blockly2.md) 
@@ -23,7 +21,7 @@ Entsprechungen von Blockly in Python:
 ### Videos mit Lösungen  
 
 Hinweis: Manche Videos zeigen die Aufgaben noch in alten Versionen, die jetzt nicht mehr verfügbar sind. Die
-Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 verlorengegangen und sind daher entfernt.
+Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 ungültig geworden und wurden daher entfernt.
 
 
 #### 2025 Runde 1 - Jgst 10
@@ -34,18 +32,13 @@ Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 verlorengega
 
 #### Schleifen
 
-- Einführung: Muster malen, Mehr Wiederholungen, Fischen - [Video](https://youtu.be/y_Gne3OH6xY)
-- Roller einsammeln - [Video](https://youtu.be/wqEir11ipaQ)
+- [Einführung: Muster malen, Mehr Wiederholungen, Fischen](https://youtu.be/y_Gne3OH6xY)
+- [Roller einsammeln](https://youtu.be/wqEir11ipaQ)
 
 #### Labyrinth 
 
-- [Finde das Ziel](https://jwinf.de/task/1582), 
-[Finde den Weg zum See](https://jwinf.de/task/1583), 
-[Labyrinth](https://jwinf.de/task/1065) - [Video](https://youtu.be/zwgAYQfCgw4)
-- [Erobere die Flagge](https://jwinf.de/task/1491),
-[Paketzusteller](https://jwinf.de/task/1102),
-[Weg folgen](https://jwinf.de/task/1017),
-[Labyrinth](https://jwinf.de/task/1814) - [Video](https://youtu.be/NqSdgEtghNo)
+- [Finde das Ziel, Finde den Weg zum See, Labyrinth](https://youtu.be/zwgAYQfCgw4)
+- [Erobere die Flagge, Paketzusteller, Weg folgen, Labyrinth](https://youtu.be/NqSdgEtghNo)
 
 #### Zählschleifen
 
