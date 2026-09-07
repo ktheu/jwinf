@@ -6,11 +6,10 @@
 
 ### Trainingsaufgaben
 
-Für die 1. Runde empfiehlt es sich, die Trainingsaufgaben von `Grundbausteine - Einführung` bis einschließlich
+Für die 1. Runde empfiehlt es sich, die Blockly-Trainingsaufgaben bis einschließlich
 `Ein-/Ausgabe Übungen` durchzuarbeiten.
 
-Für die 2. Runde kommen die Abschnitte `Funktionen` und `Listen` hinzu. Wer in der 1. Runde einigermaßen
-Punkte gesammelt hat, für den reichen in der Regel die 2 oder 3 Sterne-Aufgaben aus, um die Qualifikation in die 3. Runde zu schaffen.
+Für die 2. Runde kommen die Abschnitte `Funktionen` und `Listen` hinzu.
 
 ### Python
 
@@ -23,7 +22,8 @@ Entsprechungen von Blockly in Python:
 
 ### Videos mit Lösungen  
 
-Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die Problemstellung ist aber die gleiche.
+Hinweis: Manche Videos zeigen die Aufgaben noch in alten Versionen, die jetzt nicht mehr verfügbar sind. Die
+Links zu den Aufgaben sind bei der Reorganisation der Aufgaben 2026 verlorengegangen und sind daher entfernt.
 
 
 #### 2025 Runde 1 - Jgst 10
@@ -34,9 +34,8 @@ Hinweis: Manche Videos zeigen die Aufgaben noch mit einer älteren Grafik - die 
 
 #### Schleifen
 
-- [Einführung: Muster malen](https://jwinf.de/task/1812), [Mehr Wiederholungen](https://jwinf.de/task/1815),
-  [Fischen](https://jwinf.de/task/1817) - [Video](https://youtu.be/y_Gne3OH6xY)
-- [Roller einsammeln](https://jwinf.de/task/1101) - [Video](https://youtu.be/wqEir11ipaQ)
+- Einführung: Muster malen, Mehr Wiederholungen, Fischen - [Video](https://youtu.be/y_Gne3OH6xY)
+- Roller einsammeln - [Video](https://youtu.be/wqEir11ipaQ)
 
 #### Labyrinth 
 
